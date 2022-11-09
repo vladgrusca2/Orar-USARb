@@ -1,0 +1,15 @@
+
+body{
+    margin-top: 20px;
+    background: url(/img/new_background_1.png) no-repeat;
+    background-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wrapper{
+    display: flex;
+}
+.container{ 
+    margin: 0 auto;
+    max-width: 1280px;
+    padding: 0 20px 0 20px;
+}
